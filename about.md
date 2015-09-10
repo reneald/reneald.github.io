@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Over Reneald
 permalink: /about/
 ---
 
-Some information about you!
+Deze relatief lege pagina geeft je misschien het idee dat ik een relatief saai manspersoon ben, maar dat komt gewoon doordat ik nog geen tijd heb gehad om hier iets zinnigs neer te schrijven.
 
-### More Information
+### Meer informatie
 
-A place to include any other types of information that you'd like to include about yourself.
+Nee, sorry, er is niet meer informatie over mij.
 
-### Contact me
+### Contacteer mij
 
-[email@domain.com](mailto:email@domain.com)
+Contacteer mij via een van de knoppen hieronder of door mij [hier](mailto:delea.vanreeth+coding@gmail.com) een mail te sturen.
